@@ -4,7 +4,6 @@ This Power BI project analyzes e-commerce sales across countries, categories, an
 ## Features
 
 - Sales by Category, Country, State, and Market
-- Year-over-Year (YoY) Sales Growth
 - Profit Margin Analysis
 - Sales Trends Over Time
 - Top 5 Products by Sales

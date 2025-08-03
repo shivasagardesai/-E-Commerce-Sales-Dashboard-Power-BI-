@@ -14,3 +14,11 @@ This Power BI project analyzes e-commerce sales across countries, categories, an
 - Power BI
 - DAX
 - Excel Dataset
+
+## Dashboard Preview
+
+
+## 📎 Dataset Source
+
+
+- Created as a practice project to enhance Power BI dashboarding and DAX skills.
